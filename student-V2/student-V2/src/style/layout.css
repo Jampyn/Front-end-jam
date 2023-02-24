@@ -1,0 +1,27 @@
+.main-layout {
+  min-height: 100vh;
+}
+
+.footer {
+  height: 60px;
+  color: #000000;
+}
+
+
+.pagination li {
+  border: 1px solid #aaaa;
+  height : 40px;
+  width: 40px;
+  margin-left:1px;
+  margin-right:1px;
+  text-align: center;
+  padding-top: 10px;
+
+
+}
+
+.pagination li a {
+  color: #000000;
+  
+
+}
